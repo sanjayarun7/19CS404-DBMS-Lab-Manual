@@ -1,4 +1,6 @@
 # Experiment 2: DDL Commands
+Name: SANJAY A
+Reg.no: 212224040288
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
