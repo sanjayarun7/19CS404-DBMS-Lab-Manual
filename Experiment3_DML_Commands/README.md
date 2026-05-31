@@ -1,5 +1,6 @@
-<img width="1252" height="388" alt="image" src="https://github.com/user-attachments/assets/2428b912-4bd6-465c-8b39-605f449b1ffd" /># Experiment 3: DML Commands
-
+# Experiment 3: DML Commands
+Name: SANJAY A
+Reg.no: 212224040288
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
